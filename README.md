@@ -45,6 +45,6 @@ Here are some of my key projects showcasing portfolio optimisation, ML modelling
 ---
 
 ## 📫 Contact Me
-- **Email:** dhokajaash@gmail.com  
+- **Email:** dhokajaash@gmail.com  & work.dhokajaash@gmail.com
 - **LinkedIn:** [linkedin.com/in/jaash-dhoka](https://linkedin.com/in/jaash-dhoka)  
 - **GitHub:** [github.com/jd-884](https://github.com/jd-884)  
